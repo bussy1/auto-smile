@@ -1,7 +1,7 @@
 import requests
 import time
 
-TOKEN = '' # vk api токен
+TOKEN = '' 
 
 
 def check_token(token): # проверяем токен
