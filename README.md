@@ -28,4 +28,4 @@ TOKEN = '' #
 
 
 
-С уважением, https://vk.com/pevasic.json xD
+С уважением, https://vk.com/pevasic.json 
