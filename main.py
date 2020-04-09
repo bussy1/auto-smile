@@ -32,7 +32,7 @@ def requests_smile(token):
 
 			print('Скрипт запущен')
 			while True:
-				for item in range(1, 7):
+				for item in range(1, 18):
 					response = requests.post('https://api.vk.com/method/users.setCovidStatus?' \
 						'api_id=7362610'\
 						'&method=users.setCovidStatus&format=json&' \
