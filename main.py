@@ -40,7 +40,7 @@ def requests_smile(token):
 						'&status_id=' + str(item) + \
 						'&access_token=' + str(TOKEN) + \
 						'&request_id=5')
-				time.sleep(0.1)
+				time.sleep(0.3)
 		else:
 			print('Токен введен неверно')
 
