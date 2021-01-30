@@ -1,9 +1,8 @@
 
 
-![alt tag](https://i.ibb.co/J2p3kw5/Screenshot-18.png "https://vk.com/pevasic.json")
 
 
-Скрипт который меняет смайлик около имени ВК (COVID-19 смайлы)
+Скрипт, который меняет смайлик около имени ВК (COVID-19 смайлы)
 
 
 
@@ -24,8 +23,6 @@ TOKEN = '' #
 
 4.Ищем то что на скрине и в параметре access_token будет ваш токен до символа &
 
-![alt tag](https://i.ibb.co/x2gxTwp/Screenshot-28.png, "https://vk.com/pevasic.json")
+![alt tag](https://i.ibb.co/x2gxTwp/Screenshot-28.png, "https")
 
 
-
-С уважением, https://vk.com/pevasic.json 
